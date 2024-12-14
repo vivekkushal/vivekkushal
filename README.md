@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivekkushal
-- 👀 I’m interested in technical jobs
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in software engineering jobs
+- 🌱 I’m currently learning web development, machine learning and ai
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me --- GitHub @vivekkushal
 
